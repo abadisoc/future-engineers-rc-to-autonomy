@@ -1,0 +1,12 @@
+component,quantity,status,model_or_marking,supply_or_rating,evidence_path,notes
+RC donor chassis,1,candidate,,,,"WLtoys K989 was recommended; confirm actual model"
+Arduino Uno compatible,1,reported plan,,,,"Confirm exact board marking"
+HC-SR04 left,1,reported wiring,,,,"TRIG D2 ECHO D3; verify installed"
+HC-SR04 front,1,reported wiring,,,,"TRIG D6 ECHO D7; verify installed"
+HC-SR04 right,1,reported wiring,,,,"TRIG A0 ECHO A1; verify installed"
+Pixy2 color camera,1,candidate,,,,"No installation evidence in shared chats"
+Brushed DC motor driver,1,candidate,,,,"20 A class suggested; verify exact variant and current rating"
+LM2596 regulator,1,candidate,,,,"Verify setpoint and current budget before connection"
+Steering actuator,1,unknown,,,,"Inspect actual car; do not assume 3-wire servo"
+Drive battery,1,unknown,,,,"Record chemistry voltage capacity and cutoff"
+Fuse and power switch,1,unknown,,,,"Document placement and rating"

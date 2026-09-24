@@ -1,0 +1,1 @@
+run_id,date_utc,phase,firmware_commit,chassis_revision,direction,layout_id,battery_v_start,lighting,attempt_s,completed_laps,contacts,parked,success,failure_reason,raw_log_path,video_url,notes
